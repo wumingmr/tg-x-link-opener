@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TG X 链接 → Chuckle</string>
+    <string name="module_description">在 org.telegram.group 中点击 x.com / twitter.com 链接时，改用 app.jjyy.chuckle 打开，而不是浏览器。</string>
+</resources>

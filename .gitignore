@@ -1,0 +1,10 @@
+# 构建产物
+build/
+*.idsig
+tg-x-link-opener.apk
+
+# 编译期依赖（build.sh 首次运行时自动从 Maven Central 下载）
+libs/*.jar
+
+# 本地调试签名（build.sh 会自动生成）
+debug.keystore
